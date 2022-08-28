@@ -1,0 +1,16 @@
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.exe
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.deps.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.runtimeconfig.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.runtimeconfig.dev.json
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\ref\md04_CadernoExercicios_05.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\bin\Debug\net5.0\md04_CadernoExercicios_05.pdb
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.csproj.AssemblyReference.cache
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.AssemblyInfoInputs.cache
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.AssemblyInfo.cs
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.csproj.CoreCompileInputs.cache
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\ref\md04_CadernoExercicios_05.dll
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.pdb
+C:\Mastering C# - Shift Fiap\Caderno_Exercícios\md04_CadernoExercicios_05\obj\Debug\net5.0\md04_CadernoExercicios_05.genruntimeconfig.cache
